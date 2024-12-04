@@ -67,7 +67,7 @@ Built using modern web technologies and Spring Boot, it mimics the seamless user
 ### 🎨 Screenshots
 
 #### 1. Chat Interface
-![Chat Interface]()
+![Chat Interface](https://github.com/Soumik-Ghosh-2924/Chat_App/blob/main/User-Interface/Img1.jpg)
 
 ---
 
