@@ -67,10 +67,7 @@ Built using modern web technologies and Spring Boot, it mimics the seamless user
 ### 🎨 Screenshots
 
 #### 1. Chat Interface
-![Chat Interface](https://via.placeholder.com/800x400.png?text=Chat+Application+Screenshot)
-
-#### 2. Responsive Design
-![Responsive Design](https://via.placeholder.com/800x400.png?text=Responsive+Design+Example)
+![Chat Interface]()
 
 ---
 
