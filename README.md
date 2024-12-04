@@ -134,7 +134,7 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 For any questions or feedback, feel free to contact me:
 
 - **Email**: [soumikghoshcodes@gmail.com](mailto:soumikghoshcodes@gmail.com)
-- **GitHub**: [Your GitHub Profile](https://github.com/your-username)
+- **GitHub**: [Your GitHub Profile](https://github.com/Soumik-Ghosh-2924)
 
 ---
 
